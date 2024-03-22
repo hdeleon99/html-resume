@@ -1,3 +1,2 @@
 # html-resume
-
-A basic html resume with my resume.
+[A simple html website with my resume](https://hdeleon99.github.io/html-resume/)
